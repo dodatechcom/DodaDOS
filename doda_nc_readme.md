@@ -29,11 +29,15 @@ The application strictly relies on standard keystrokes for productivity:
 | **Up Arrow**    | Move the selection cursor up in the active pane.                                         |
 | **Down Arrow**  | Move the selection cursor down in the active pane.                                       |
 | **Tab**         | Switch focus between the left and right panes.                                           |
-| **Enter**       | Open the selected directory. (If `..` is selected, it navigates to the parent folder). |
-| **F5 (Copy)**   | Copies the currently selected file or directory to the path of the *inactive* pane.      |
-| **F6 (Move)**   | Moves the currently selected file or directory to the path of the *inactive* pane.       |
+| **Spacebar**    | Select (mark) or unselect a file for multi-file operations.                              |
+| **s / S**       | Cycle sorting method (Name, Size, Date) in the active pane.                              |
+| **Enter**       | Open the selected directory or execute the selected file.                                |
+| **F3 (View)**   | Opens a built-in read-only text viewer for the selected file.                            |
+| **F4 (Edit)**   | Opens the selected file in the system default text editor (e.g. `nano`).                 |
+| **F5 (Copy)**   | Copies marked files (or the currently selected file) to the path of the *inactive* pane. |
+| **F6 (Move)**   | Moves marked files (or the currently selected file) to the path of the *inactive* pane.  |
 | **F7 (Mkdir)**  | Prompts for a name and creates a new directory in the *active* pane's path.              |
-| **F8 (Delete)** | Deletes the currently selected file or directory.                                        |
+| **F8 (Delete)** | Deletes marked files (or the currently selected file) after a confirmation prompt.       |
 | **F10 (Quit)**  | Exits the application.                                                                   |
 
 ## Architecture
