@@ -3,9 +3,8 @@ import os
 import sys
 import glob
 
-import contextlib
-with contextlib.redirect_stdout(None):
-    import pygame
+os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "1"
+import pygame
 
 class MusicPlayerApp:
     def __init__(self, stdscr):
