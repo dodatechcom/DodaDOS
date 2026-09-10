@@ -22,6 +22,7 @@ Doda DOS is comprised of numerous standalone modules, each mimicking classic sof
 *   **[Doda Draw (ANSI Art Editor)](doda_draw_readme.md)**: A text-mode paint application for creating ANSI art.
 *   **[Doda Cal (Calendar PIM)](doda_cal_readme.md)**: A retro monthly calendar and note-taking utility.
 *   **[Doda Serial (Lab Instrument Control)](doda_serial_readme.md)**: An asynchronous serial terminal to interface with hardware.
+*   **[Doda Screensavers](doda_saver_readme.md)**: A collection of 5 cozy and humorous ASCII animations.
 
 ### Graphical Utilities (`pygame`)
 
