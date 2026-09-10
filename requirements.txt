@@ -2,3 +2,4 @@ psutil
 Pillow
 pygame
 pyserial
+feedparser

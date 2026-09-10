@@ -16,6 +16,7 @@ Doda DOS is comprised of numerous standalone modules, each mimicking classic sof
 *   **[Doda HW (Hardware Inventory)](doda_hw_readme.md)**: A SiSoftware Sandra style hardware diagnostic tool.
 *   **[Doda Task (Process Manager)](doda_task_readme.md)**: A process and memory manager for monitoring and killing tasks.
 *   **[Doda Net (Network Suite)](doda_net_readme.md)**: A bundled networking suite featuring Ping and a text-mode web browser.
+*   **[Doda IRC (Terminal Client)](doda_irc_readme.md)**: A multi-threaded, text-mode IRC client.
 *   **[Doda Zip (Archive Manager)](doda_zip_readme.md)**: Inspect and extract contents from `.zip` archives.
 *   **[Doda Image Viewer](doda_img_readme.md)**: A terminal-based ANSI pixel image viewer and slideshow tool.
 *   **[Doda Music Player](doda_music_readme.md)**: A background terminal audio player.
@@ -30,6 +31,8 @@ Doda DOS is comprised of numerous standalone modules, each mimicking classic sof
 *   **[Doda Get (Package Manager)](doda_get_readme.md)**: A text-mode software catalog to browse and install community games and scripts.
 *   **[Doda Less (Markdown Pager)](doda_less_readme.md)**: A syntax-highlighted text pager optimized for reading documentation.
 *   **[Doda Fetch (CLI Downloader)](doda_fetch_readme.md)**: A command-line file downloader featuring retro ASCII progress bars.
+*   **[Doda RSS (Feed Reader)](doda_rss_readme.md)**: A 3-pane text-mode RSS/Atom aggregator to read news straight from the terminal.
+*   **[Doda Bar (Status Bar)](doda_bar_readme.md)**: A background script that draws a live system status bar at the bottom of the console.
 
 ### Graphical Utilities (`pygame`)
 
