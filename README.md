@@ -24,6 +24,13 @@ Doda DOS is comprised of numerous standalone modules, each mimicking classic sof
 *   **[Doda Serial (Lab Instrument Control)](doda_serial_readme.md)**: An asynchronous serial terminal to interface with hardware.
 *   **[Doda Screensavers](doda_saver_readme.md)**: A collection of 5 cozy and humorous ASCII animations.
 
+### System & Environment Integration
+
+*   **[Doda Shell (Command Line)](doda_shell_readme.md)**: A custom `C:\>` style REPL featuring persistent history, tab-completion, colored directory listings, and short-name execution of Doda tools.
+*   **[Doda Get (Package Manager)](doda_get_readme.md)**: A text-mode software catalog to browse and install community games and scripts.
+*   **[Doda Less (Markdown Pager)](doda_less_readme.md)**: A syntax-highlighted text pager optimized for reading documentation.
+*   **[Doda Fetch (CLI Downloader)](doda_fetch_readme.md)**: A command-line file downloader featuring retro ASCII progress bars.
+
 ### Graphical Utilities (`pygame`)
 
 *   **[Doda GUI Shell](doda_gui_readme.md)**: A retro 16-color graphical desktop environment (like GEM/Windows 3.1) featuring movable windows, icons, and built-in apps.
